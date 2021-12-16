@@ -13,6 +13,6 @@ to run the example do the following
 >```shell
 >> scalac -cp terminalUI.jar Example.scala
 >> scala -cp terminalUI.jar Example
-```
->
-To lern more read the [source code]()
+
+
+To lern more read the [source code](https://github.com/BjorneEk/terminalUI/blob/main/src/TerminalWindow.scala)
